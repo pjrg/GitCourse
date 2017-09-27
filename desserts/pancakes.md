@@ -8,7 +8,7 @@
 - 1 teaspoon salt
 - 1 tablespoon white sugar
 - 1 1/4 cups milk
-- 2 egg
+- 3 egg
 - 3 tablespoons butter, melted
 
 ## Preparation
@@ -18,3 +18,5 @@ In a large bowl, sift together the flour, baking powder, salt and sugar. Make a 
 Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.
 
 You can optionally top up with sirrup or sugar.
+
+The user can top up...
