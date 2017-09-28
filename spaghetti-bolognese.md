@@ -20,7 +20,7 @@
 - 125ml red wine
 - 6 cherry tomatoes, sliced in half
 - 75g Parmesan, grated, plus extra to serve
-- 400g spaghetti
+- 500g spaghetti
 - crusty bread, to serve (optional)
 
 ## Preparation
